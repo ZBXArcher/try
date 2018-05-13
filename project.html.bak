@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<head>
+
+<title>news</title>
+<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<link rel="stylesheet"type="text/css" href="css/css.css">
+</head>
+
+<body>
+<div class="banner"><div class="head"><a href="project.html">NEWS</a></div></div>
+<div class="textList">
+<div class="text">
+<img src="img/01.jpg" alt="img was gone">
+<a href="http://news.163.com/air/18/0403/10/DEFAHN0I000181O6.html">俄邮政首尝无人机送货失利 未来将继续推广</a>
+<span>2018年4月23日</span>
+</div>
+<div class="text">
+<img src="img/001.jpg" alt="img was gone">
+<a href="http://tech.sina.com.cn/it/2018-04-23/doc-ifzfkmth7135883.shtml" >谷歌收集的数据比脸书多 为什么被骂的不是它？
+</a>
+<span>2018年4月23日</span>
+</div><div class="text">
+<img src="img/02.png" alt="img was gone" >
+<a href="http://js.news.163.com/18/0423/19/DG3NF84U04248E9B.html">因建邺路施工 29日起南京11条公交线路将临时调整
+</a>
+<span>2018年4月23日</span>
+</div><div class="text">
+<img src="img/03.png" alt="img was gone">
+<a href="http://js.news.163.com/18/0423/17/DG3HF4L404248E9B.html"> 江苏省发布暴雨蓝色预警 大部分地区降水仍将持续
+</a>
+<span>2018年4月23日</span>
+</div><div class="text">
+<img src="img/04.png" alt="img was gone">
+<a href="http://tech.sina.com.cn/csj/2018-04-23/doc-ifznefki0688629.shtml" >围绕深度学习框架，谷歌、Facebook、百度展开三国杀
+</a>
+<span>2018年4月23日</span>
+</div><div class="text">
+<img src="img/05.jpg" alt="img was gone">
+<a href="http://tech.sina.com.cn/it/2018-04-23/doc-ifzqvvrz9037681.shtml?cre=tianyi&mod=pctech&loc=6&r=0&doct=0&rfunc=11&tj=none&tr=63">中兴员工:华为仅部分芯片自己设计 谁被美制裁都得死</a>
+<span>2018年4月23日</span>
+</div><div class="text">
+<img src="img/06.jpg" alt="img was gone">
+<a href="http://tech.sina.com.cn/d/2018-04-23/doc-ifzqvvrz9534762.shtml?cre=tianyi&mod=pctech&loc=16&r=25&doct=0&rfunc=11&tj=none&tr=25">杨利伟出任中国载人航天工程办公室主任
+</a>
+<span>2018年4月23日</span>
+</div><div class="text">
+<img src="img/07.jpg"  alt="img was gone">
+<a href="http://tech.sina.com.cn/d/s/2018-04-23/doc-ifzqvvrz7820160.shtml?cre=tianyi&mod=pctech&loc=20&r=25&doct=0&rfunc=11&tj=none&tr=25">中国将选拔约18名第三批预备航天员 共选17-18人行车线路调
+</a>
+<span>2018年4月23日</span>
+</div>
+<div class="text">
+<img src="img/08.jpg"  alt="img was gone">
+<a href="http://tech.sina.com.cn/d/s/2018-04-23/doc-ifznefki0625992.shtml?cre=tianyi&mod=pctech&loc=5&r=25&doct=0&rfunc=11&tj=none&tr=25"> 张劲夫：我国第一颗人造卫星是怎样上天的？
+</a>
+<span>2018年4月23日</span>
+</div>
+<div class="text">
+<img src="img/09.jpg" alt="img was gone">
+<a href="http://tech.sina.com.cn/it/2018-04-23/doc-ifznefki0532717.shtml?cre=tianyi&mod=pctech&loc=1&r=25&doct=0&rfunc=11&tj=none&tr=25">人民日报谈“北斗地图App”:少拿高科技当名头搞忽悠
+</a>
+<span>2018年4月23日</span>
+</div>
+<div class="text">
+<img src="img/10.jpg" alt="img was gone">
+<a href="http://tech.sina.com.cn/other/intra/2018-04-23/doc-ifznefki0115425.shtml?cre=tianyi&mod=pctech&loc=4&r=25&doct=0&rfunc=11&tj=none&tr=25">5G真的要来了！试点城市敲定，有你的家乡吗？
+</a>
+<span>2018年4月23日</span>
+</div>
+<div class="text">
+<img src="img/11.jpg" alt="img was gone">
+<a href="http://tech.sina.com.cn/d/s/2018-04-23/doc-ifznefkh9635029.shtml?cre=tianyi&mod=pctech&loc=2&r=25&doct=0&rfunc=11&tj=none&tr=25">“嫦娥四号”下半年奔月 将实现首次着陆月球背面
+</a>
+<span>2018年4月23日</span>
+</div>
+<div class="text">
+<img src="img/12.jpg"  alt="img was gone">
+<a href="http://tech.sina.com.cn/i/2018-04-22/doc-ifznefkh3061517.shtml?cre=tianyi&mod=pctech&loc=1&r=25&doct=0&rfunc=11&tj=none&tr=25">史上身价最高的猪：一年疯狂吸金75亿元！
+</a>
+<span>2018年4月23日</span>
+</div>
+<div class="text">
+<img src="img/13.png"  alt="img was gone">
+<a href="http://edu.sina.com.cn/gaokao/2018-04-23/doc-ifznefki0434588.shtml"> “雄安大学”横空出世 北京已经表态
+</a>
+<span>2018年4月23日</span>
+</div>
+<div class="text">
+<img src="img/14.png" alt="img was gone">
+<a href="http://edu.sina.com.cn/gaokao/2018-04-23/doc-ifzqvvrz8897595.shtml">
+南京航空航天大学2018年自主招生简章
+</a>
+<span>2018年4月23日</span>
+</div>
+<div class="text">
+<img src="img/15.png" alt="img was gone">
+<a href="http://tech.sina.com.cn/d/s/2018-04-23/doc-ifznefki0173102.shtml?cre=tianyi&mod=pctech&loc=8&r=25&doct=0&rfunc=11&tj=none&tr=25">想探索外星海洋？看这些探测器如何大显神通
+</a>
+<span>2018年4月23日</span>
+</div>
+
+</div>
+</body>
+</html>
